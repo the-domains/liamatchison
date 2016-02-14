@@ -1,0 +1,28 @@
+name: liamatchison
+favicon: null
+layout_spectrum: 0.39885490550659597
+typography_spectrum: 0.25506068323738873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6519087394699454
+  lightness: 0.2625685320235789
+  saturation: 0.903800813248381
+  rhythmicContrast: 0.08881817106157541
+purpose: []
