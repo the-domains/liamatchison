@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T06:20:18.090Z'
-dateModified: '2016-02-14T06:19:43.402Z'
+datePublished: '2016-02-14T10:59:15.569Z'
+dateModified: '2016-02-14T10:58:44.229Z'
 title: The Purveyor of Words
 author: []
+sourcePath: _posts/2016-02-14-the-purveyor-of-words.md
+published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
-sourcePath: _posts/2016-02-14-the-purveyor-of-words.md
-published: true
 url: the-purveyor-of-words/index.html
 _type: Article
 
@@ -33,6 +33,5 @@ It shouldn't be hard to explain Esau to a tribe of Esaus, but how do I explain l
 This morning, and every morning, Mr. Raye climbed out of the hut of wood and stone that had once been his parent's neat tract house and strolled along the Berm looking for items that might aid his survival. The Berm was a long high mound of dirt that covered what were once known as streets. Overgrown with weeds, it was high enough to prevent neighbors from seeing one another and there were smaller, steeper mounds between adjoining homes. These homes, similar to Mr. Raye's, reposed in damp, verdant, bowls that would be perfectly formed had it not been for narrow passages through the piles along the Berm. Mr. Raye navigated these passages with such regularity that his ubiquitous presence hardly raised an eyebrow from his vigilant fellow-sufferers.
 
 Mr. Raye was like a thin thread that connected the lives of the people who lived in Wallington--for that had been the name of this suburb--and this wiry, cerebral man kept that name alive in their thoughts as well.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4608d254-a350-4b02-a4fb-07dee6115534.jpg)
 
 It was a warm day in late summer or early fall, and Mr. Raye was looking for wood, or for something he could trade for wood. He knew that wood would be easier to stockpile now before his neighbors discovered a leaf changing color or felt a small dip in the temperature. He already had a formidable stack, which he had gathered during the rainy spring when Wallingtonites hacked up hedgerows in search of fronds to cover their roofs against the hard showers. Mr. Ra​ye carried away branches, trunks, and roots which he placed on his roof to dry. His neighbors did not suspect that he retained from the old world a drum of tar, the contents of which he used for repairs. He knew where to look first. Baksteen's place.
