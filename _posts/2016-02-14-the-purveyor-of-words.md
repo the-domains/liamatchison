@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'The way to make a living after Armageddon. '
-datePublished: '2016-02-15T18:22:03.979Z'
-dateModified: '2016-02-15T18:21:59.259Z'
+datePublished: '2016-02-15T19:37:53.104Z'
+dateModified: '2016-02-15T19:37:51.434Z'
 title: The Purveyor of Words
 author: []
 sourcePath: _posts/2016-02-14-the-purveyor-of-words.md
@@ -22,7 +22,7 @@ url: the-purveyor-of-words/index.html
 _type: Article
 
 ---
-![Drink, drink, drink!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f7f3224aa9af1130262cec48f2dfe304e50077.jpg)
+![Germany's unoffcial intellectual capital](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d5ec1b78d1d6f6806a9ab8624aeeb28830697b.jpg)
 
 Mr. Raye was not merely a scrounger, he was a purveyor of words. As far as he knew, he was the only one who made his living this way. He found this was the best way to survive in what was left of this suburb ever since the day the world fell apart. At first he had kept a calendar by making marks on the wall for each new day, but soon he missed a day, then two, then found himself hopelessly behind. He berated himself for his lack of discipline. A purveyor of words ought to be able to preserve the memory of time. This last thought intermittently assailed him, and he wallowed in it until he waved an arm backhandedly in front of his face and the guilt vanished. "After all," he reasoned, "I may be the first purveyor of words in this ugly, new world. It is enough that I remember some words and their meaning." 
 
