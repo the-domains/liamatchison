@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'My favorite pencil: The Pentel Fiesta 1.3'
-datePublished: '2016-02-15T18:13:41.291Z'
-dateModified: '2016-02-15T18:13:35.454Z'
+datePublished: '2016-02-15T18:15:43.571Z'
+dateModified: '2016-02-15T18:15:36.892Z'
 title: Ode to a dull pencil.
 author: []
 sourcePath: _posts/2016-02-15-ode-to-a-dull-pencil.md
@@ -22,7 +22,7 @@ url: ode-to-a-dull-pencil/index.html
 _type: Article
 
 ---
-![Here's pointing at you, kid!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/754f7ac2201fecec797f88774c0aa968acdf158e.jpg)
+![Here's pointing at you, kid!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cbc3653b0dcb035b7055c73a6b7d20d9b7d3d2b.jpg)
 
 In yesterday's post I discussed the adage that is the title of this blog. One of my late father's favorite adages was, "the dullest pencil is keener than the sharpest mind." he meant that I had better write down my ideas before I forget them. I have just been thinking how much more powerful his aphorism would have been if the dullest pencil was also the best and the beautiful. In his youth America was still in search of a good five-cent cigar, but could wars have been averted with a superior penny pencil?There are the whole foods and tiny house movements. Perhaps there should be a Dull Pencil movement! Before you think I am suffering from lead poisoning from chewing too many Ticonderoga \#2 barrels, allow me to elaborate.
 
