@@ -1,7 +1,7 @@
 name: liamatchison
 favicon: null
-layout_spectrum: 0.15582
-typography_spectrum: 0.1525
+layout_spectrum: 0.47243
+typography_spectrum: 0.32418
 title: This Experiment is Tedious
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c2c2c2'
-    - '#2b2b2b'
-    - '#6a6a6a'
-    - '#8b8b8b'
-    - '#111111'
-  brandStrength: 0.6519087394699454
+    - '#ffffff'
+    - '#000100'
+    - '#899797'
+    - '#45372f'
+    - '#d1773b'
+  brandStrength: 0.75
   lightness: 0.2625685320235789
   saturation: 0.903800813248381
   rhythmicContrast: 0.08881817106157541
