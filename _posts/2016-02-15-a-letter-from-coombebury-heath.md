@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: The librarian has disrupted life in this sleepy English village.
-datePublished: '2016-02-15T19:08:53.650Z'
-dateModified: '2016-02-15T19:08:38.820Z'
+description: A letter from Maxwell Fleet in which he reports that the librarian has disrupted life in this sleepy English village.
+datePublished: '2016-02-15T19:12:20.125Z'
+dateModified: '2016-02-15T19:12:14.835Z'
 author: []
 title: A letter from Coombebury Heath
+sourcePath: _posts/2016-02-15-a-letter-from-coombebury-heath.md
+published: true
 authors: []
 publisher:
   name: liamatchison.com
   domain: liamatchison.com
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-a-letter-from-coombebury-heath.md
-published: true
 url: a-letter-from-coombebury-heath/index.html
 _context: 'http://schema.org'
 _type: Article
