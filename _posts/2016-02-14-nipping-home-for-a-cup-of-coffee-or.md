@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://liamatchison.com'
-  name: Liamatchison
-  favicon: 'http://0.gravatar.com/avatar/001b6eb83066bb50c344470212f29d05.png?s=16'
-  domain: liamatchison.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://liamatchison.com/?p=563'
+inLanguage: en
+starred: false
 keywords:
   - coffee
   - sowden
@@ -18,19 +17,22 @@ keywords:
   - softbrew
   - convivial
 description: 'Mediterranean cookery expert and coffee aficionada Claudia Roden once related the story of a Viennese man who loved java and conversation. Early in the day he found a seat and ordered his cup, which inevitably led to a convivial discussion for most of the morning.'
-inLanguage: en
+datePublished: '2016-02-15T18:23:57.500Z'
+dateModified: '2016-02-15T18:23:51.533Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://liamatchison.com/?p=563'
 title: 'Nipping home for a cup of coffee |'
-datePublished: '2016-02-14T05:35:52.256Z'
-dateModified: '2016-02-14T05:30:41.299Z'
 sourcePath: _posts/2016-02-14-nipping-home-for-a-cup-of-coffee-or.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Liamatchison
+  domain: liamatchison.com
+  url: 'http://liamatchison.com'
+  favicon: 'http://0.gravatar.com/avatar/001b6eb83066bb50c344470212f29d05.png?s=16'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Nipping home for a cup of coffee &amp;vert;</h1><p>Mediterranean cookery expert and coffee aficionada Claudia Roden once related the story of a Viennese man who loved java and conversation&amp;period; Early in the day he found a seat and ordered his cup&amp;comma; which inevitably led to a convivial discussion for most of the morning&amp;period;</p><img src="http://liamatchison.com/wp-content/uploads/2015/08/conviviumroyals-300x199.jpg" /></article>
+<article style=""><h1>Nipping home for a cup of coffee |</h1><p>Mediterranean cookery expert and coffee aficionada Claudia Roden once related the story of a Viennese man who loved java and conversation. Early in the day he found a seat and ordered his cup, which inevitably led to a convivial discussion for most of the morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/992938c7d1cfc517cfaab50c2e43427cae595512.jpg" /></article>
