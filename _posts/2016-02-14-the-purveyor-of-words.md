@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'The way to make a living after Armageddon. '
-datePublished: '2016-02-15T20:16:59.522Z'
-dateModified: '2016-02-15T20:16:54.666Z'
+datePublished: '2016-02-15T20:19:35.167Z'
+dateModified: '2016-02-15T20:19:28.220Z'
 title: The Purveyor of Words
 author: []
 sourcePath: _posts/2016-02-14-the-purveyor-of-words.md
