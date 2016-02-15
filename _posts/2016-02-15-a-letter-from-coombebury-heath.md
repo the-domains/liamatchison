@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: A letter from Maxwell Fleet in which he reports that the librarian has disrupted life in this sleepy English village.
-datePublished: '2016-02-15T20:15:46.663Z'
-dateModified: '2016-02-15T20:15:43.121Z'
+datePublished: '2016-02-15T20:20:00.984Z'
+dateModified: '2016-02-15T20:19:57.897Z'
 author: []
 title: A letter from Coombebury Heath
 sourcePath: _posts/2016-02-15-a-letter-from-coombebury-heath.md
