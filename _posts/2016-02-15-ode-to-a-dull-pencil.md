@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'My favorite pencil: The Pentel Fiesta 1.3'
-datePublished: '2016-02-15T20:16:21.783Z'
-dateModified: '2016-02-15T20:16:18.670Z'
+datePublished: '2016-02-15T20:20:24.762Z'
+dateModified: '2016-02-15T20:20:21.968Z'
 title: Ode to a dull pencil.
 author: []
 sourcePath: _posts/2016-02-15-ode-to-a-dull-pencil.md
