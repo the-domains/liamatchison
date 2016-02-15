@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T21:26:29.182Z'
-dateModified: '2016-02-15T21:26:10.284Z'
+datePublished: '2016-02-15T21:47:22.241Z'
+dateModified: '2016-02-15T21:47:19.087Z'
 title: Fiction and History in Under 1000 Words
 author: []
+sourcePath: _posts/2016-02-15-fiction-and-history-in-under-1000-words.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-fiction-and-history-in-under-1000-words.md
-published: true
 _type: Blurb
 
 ---
