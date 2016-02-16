@@ -16,12 +16,12 @@ keywords:
   - softbrew
   - convivial
 description: 'Mediterranean cookery expert and coffee aficionada Claudia Roden once related the story of a Viennese man who loved java and conversation. Early in the day he found a seat and ordered his cup, which inevitably led to a convivial discussion for most of the morning.'
-datePublished: '2016-02-15T20:10:57.464Z'
-dateModified: '2016-02-15T20:10:49.264Z'
+datePublished: '2016-02-16T03:54:14.526Z'
+dateModified: '2016-02-16T03:52:13.558Z'
 author: []
 related: []
 app_links: []
-title: 'Nipping home for a cup of coffee |'
+title: Nipping home for a cup of coffee
 sourcePath: _posts/2016-02-14-nipping-home-for-a-cup-of-coffee-or.md
 published: true
 authors: []
