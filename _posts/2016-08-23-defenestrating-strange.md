@@ -1,15 +1,4 @@
 ---
-datePublished: '2016-08-23T05:13:28.752Z'
-sourcePath: _posts/2016-08-23-defenestrating-strange.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
-author: []
-via: {}
-dateModified: '2016-08-23T05:13:28.037Z'
-title: ''
-publisher: {}
 description: >-
   I was hardly awake the next morning as I floated the three blocks to the
   southeast corner of campus then labored up the hill to Bradley Hall. I was
@@ -26,15 +15,26 @@ description: >-
   Fieler made it difficult. He would ridicule my piggy bun as a travesty. He
   always ate plain and dunked them till a swirl of crumbs appeared as a crust
   atop the long-cold beverage.
-inLanguage: null
-inNav: true
+dateModified: '2016-08-23T05:22:23.042Z'
+datePublished: '2016-08-23T05:23:45.404Z'
+title: Defenestrating Strange
+author: []
+publisher:
+  name: Dr. Liam Atchison
+via: {}
 starred: false
-url: defenestrating-strange/index.html
-_type: Article
+sourcePath: _posts/2016-08-23-defenestrating-strange.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de6e22ea-506c-4e05-ad57-85280f4bb87a.jpg)
+
+# Defenestrating Strange
+
 I was hardly awake the next morning as I floated the three blocks to the southeast corner of campus then labored up the hill to Bradley Hall. I was sipping my first cup of coffee from my Yeti, and had my plaid Thermos, circa 1960, in my rucksack filled with more Peet's Italian Roast brew. It was Tuesday so I did not teach but had office hours, after which I was to lunch with Professor Fieler. He had asked to meet because he had fresh thoughts on the murder investigation and said mine was the only coffee he could tolerate. I hoped there would be something more substantial than mere coffee and carbs, but Fieler loved doughnuts almost as much as my coffee. At least the preferred shop across from the campus had Maple Bacon doughnuts with thick slabs of smoked rashers atop taupe frosting made from powdered sugar and Mrs. Butterworth's. There was more than one way to squeeze in some protein though Fieler made it difficult. He would ridicule my piggy bun as a travesty. He always ate plain and dunked them till a swirl of crumbs appeared as a crust atop the long-cold beverage.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22e6228a-66c1-4abc-ba22-ec071eae93d9.jpg)
 
 Desecrated Joe was on my mind as I drew near to Bradley Hall and noticed a huge cone of black stuff that looked like coffee grounds, but was probably topsoil piled perhaps ten feet high right against the east wall of Bradley. A group of maybe ten undergraduates was standing akimbo nearby silently gaping at the stack. Was Campus Maintenance digging up a sewer line? As I got close, I saw no hole. Is this landscaping? I noticed that the windows in the classroom above the pile of dirt were open, and I could see figures in the classroom darting back and forth. Was there a scuffle? I could then hear raised voices in the heat of some sort of argument, and I thought I recognized the shouts of the loudest combatant. It was Fieler!
 
@@ -60,7 +60,7 @@ Strange jumped up on the windowsill and Fieler, quick as a cat, leaped up beside
 
 "What? They don't know it's missing? He stole all their poop?"
 
-He wore his hurt look now, staring at the ground. "Not all of it, just what I calculated that was needed."
+He wore his hurt look, staring at the ground. "Not all of it, just what I calculated that was needed."
 
 "Calculated? You teach in the humanities! What do you know about such calculations? It was foolish!" I regretted the last comment even as it escaped my lips.
 
