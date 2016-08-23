@@ -19,9 +19,9 @@ description: >-
   Butterworth’s. There was more than one way to squeeze in some protein though
   Fieler made it difficult. He would ridicule my piggy bun as a travesty. He
   always ate plain and dunked them till a swirl of crumbs appeared as a crust
-  atop the long-cold beverage. 
-datePublished: '2016-08-23T04:54:10.239Z'
-dateModified: '2016-08-23T04:53:57.764Z'
+  atop the long-cold beverage.
+datePublished: '2016-08-23T05:03:12.698Z'
+dateModified: '2016-08-23T04:55:45.430Z'
 title: ''
 author: []
 via: {}
