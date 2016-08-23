@@ -1,35 +1,35 @@
 ---
+datePublished: '2016-08-23T05:14:59.830Z'
+sourcePath: _posts/2016-02-16-tilting-windmills-at-coombebury-heath.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: >-
-  The following letter was apparently lost in the mails until just recently.
-  Many friends who read this little blog from time to time have asked about the
-  story of the windmill that Maxwell began in his first letter. I am happy to
-  report that I am now able to post Maxwell’s follow-up.
-datePublished: '2016-08-23T04:58:20.323Z'
-dateModified: '2016-08-23T04:45:54.878Z'
-title: Windmill at Coombebury Heath
 author:
   - name: Tony Tooth
     url: >-
       http://www.picturesofengland.com/England/Buckinghamshire/Quainton/Quainton_Windmill/pictures
-sourcePath: _posts/2016-02-16-tilting-windmills-at-coombebury-heath.md
-authors: []
+via: {}
+dateModified: '2016-08-23T05:14:59.288Z'
+title: Windmill at Coombebury Heath
 publisher:
   name: Dr. Liam Atchison
   domain: null
   url: 'http://liamatchison.com/?p=103'
   favicon: null
-via: {}
+description: >-
+  The following letter was apparently lost in the mails until just recently.
+  Many friends who read this little blog from time to time have asked about the
+  story of the windmill that Maxwell began in his first letter. I am happy to
+  report that I am now able to post Maxwell’s follow-up.
+inLanguage: null
+inNav: false
 starred: false
 url: tilting-windmills-at-coombebury-heath/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/770d8511-ec97-4cbb-a672-5aab867fd546.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/84567e052252d294ab9e0e47c61da7bb00a2e494.jpg)
 
 The following letter was apparently lost in the mails until just recently. Many friends who read this little blog from time to time have asked about the story of the windmill that Maxwell began in his first letter. I am happy to report that I am now able to post Maxwell's follow-up.
 
