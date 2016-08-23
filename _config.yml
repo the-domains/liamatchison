@@ -1,6 +1,6 @@
 name: flashfictory
 favicon: null
-layout_spectrum: 0.08708
+layout_spectrum: 0.88501
 typography_spectrum: 0.1247
 title: Flash Fictory
 cta:
@@ -23,7 +23,7 @@ color:
     - '#f6472a'
     - '#e3cf19'
   brandStrength: 0.75
-  lightness: 0.375
-  saturation: 0.903800813248381
+  lightness: 0.75
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
