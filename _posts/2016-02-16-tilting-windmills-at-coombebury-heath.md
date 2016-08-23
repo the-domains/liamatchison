@@ -3,21 +3,28 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Maxwell Fleet connects the local librarian to the confluence of potty training and wind power.
-datePublished: '2016-02-16T03:48:00.987Z'
-dateModified: '2016-02-16T03:47:35.387Z'
-title: Tilting windmills at Coombebury Heath
-author: []
+description: >-
+  The following letter was apparently lost in the mails until just recently.
+  Many friends who read this little blog from time to time have asked about the
+  story of the windmill that Maxwell began in his first letter. I am happy to
+  report that I am now able to post Maxwell’s follow-up.
+datePublished: '2016-08-23T04:58:20.323Z'
+dateModified: '2016-08-23T04:45:54.878Z'
+title: Windmill at Coombebury Heath
+author:
+  - name: Tony Tooth
+    url: >-
+      http://www.picturesofengland.com/England/Buckinghamshire/Quainton/Quainton_Windmill/pictures
+sourcePath: _posts/2016-02-16-tilting-windmills-at-coombebury-heath.md
 authors: []
 publisher:
-  name: null
+  name: Dr. Liam Atchison
   domain: null
-  url: null
+  url: 'http://liamatchison.com/?p=103'
   favicon: null
-sourcePath: _posts/2016-02-16-tilting-windmills-at-coombebury-heath.md
-published: true
+via: {}
+starred: false
 url: tilting-windmills-at-coombebury-heath/index.html
 _type: Article
 
