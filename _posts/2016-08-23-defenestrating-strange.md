@@ -20,8 +20,8 @@ description: >-
   Fieler made it difficult. He would ridicule my piggy bun as a travesty. He
   always ate plain and dunked them till a swirl of crumbs appeared as a crust
   atop the long-cold beverage. 
-datePublished: '2016-08-23T04:44:21.822Z'
-dateModified: '2016-08-23T04:43:30.635Z'
+datePublished: '2016-08-23T04:45:14.362Z'
+dateModified: '2016-08-23T04:44:22.673Z'
 title: ''
 author: []
 via: {}
