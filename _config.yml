@@ -1,20 +1,4 @@
-name: flashfictory
-favicon: null
-layout_spectrum: 0.2487
 typography_spectrum: 0.1247
-title: Flash Fictory
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#89abc4'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2487
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: flashfictory
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    id: f1afbc56-e8da-4737-b183-3a4e9de1b8cd
+    type: content
+favicon: null
+title: Flash Fictory
 purpose: []
