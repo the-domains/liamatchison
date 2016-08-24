@@ -1,30 +1,36 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'My favorite pencil: The Pentel Fiesta 1.3'
-datePublished: '2016-02-15T20:20:24.762Z'
-dateModified: '2016-02-15T20:20:21.968Z'
-title: Ode to a dull pencil.
-author: []
+datePublished: '2016-08-24T15:55:42.653Z'
 sourcePath: _posts/2016-02-15-ode-to-a-dull-pencil.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: Jeff Cormier
+    url: 'https://about.me/jffcrmr'
+via: {}
+dateModified: '2016-08-24T15:55:41.901Z'
+title: Pencils
 publisher:
-  name: null
+  name: Dr. Liam Atchison
   domain: null
-  url: null
+  url: 'http://liamatchison.com/?p=456'
   favicon: null
+description: >-
+  One of my late father’s favorite adages was, “the dullest pencil is keener
+  than the sharpest mind.” 
+inLanguage: null
+inNav: true
+starred: false
 url: ode-to-a-dull-pencil/index.html
 _type: Article
 
 ---
-![How pencils are made.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa361c3b-ae6e-4ee2-b7dc-a3d493f33a31.jpg)
+![How pencils are made.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/02227bd4d7314b0a8031f0bb627a070a2d8ddb54.jpg)
 
-In yesterday's post I discussed the adage that is the title of this blog. One of my late father's favorite adages was, "the dullest pencil is keener than the sharpest mind." he meant that I had better write down my ideas before I forget them. I have just been thinking how much more powerful his aphorism would have been if the dullest pencil was also the best and the beautiful. In his youth America was still in search of a good five-cent cigar, but could wars have been averted with a superior penny pencil?There are the whole foods and tiny house movements. Perhaps there should be a Dull Pencil movement! Before you think I am suffering from lead poisoning from chewing too many Ticonderoga \#2 barrels, allow me to elaborate.
+One of my late father's favorite adages was, "the dullest pencil is keener than the sharpest mind." 
+
+He meant that I had better write down my ideas before I forget them. I have just been thinking how much more powerful his aphorism would have been if the dullest pencil was also the best and the beautiful. In his youth America was still in search of a good five-cent cigar, but could wars have been averted with a superior penny pencil?There are the whole foods and tiny house movements. Perhaps there should be a Dull Pencil movement! Before you think I am suffering from lead poisoning from chewing too many Ticonderoga \#2 barrels, allow me to elaborate.
 
 Those closest to me know how I love writing instruments, particularly fountain pens. I write daily as a devotional exercise and there is nothing like drinking pour-over-brewed coffee from a steaming cup in the soft light of the early morning with a robust fountain pen seemingly guiding my hand as it smoothly sails over Clairefontaine paper. The Brilliant-Braun Pelikan ink transforms my thoughts into flowing rivers that I would love to describe as beautiful in themselves were it not that my scrawl hardly matches the functionality of my tools. Sadly, Plato's ideals include perfect calligraphy. I have three cherished fountain pens (so far) that I will pass down to my children when I die. But if fountain pens were wine and I were a connoisseur of both wine and beer, then my 1.3 mm Pentel Fiesta mechanical pencil would be my favorite brew.
 
