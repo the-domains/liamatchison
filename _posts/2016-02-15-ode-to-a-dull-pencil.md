@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T15:55:42.653Z'
+datePublished: '2016-08-24T17:06:32.177Z'
 sourcePath: _posts/2016-02-15-ode-to-a-dull-pencil.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Jeff Cormier
     url: 'https://about.me/jffcrmr'
 via: {}
-dateModified: '2016-08-24T15:55:41.901Z'
+dateModified: '2016-08-24T17:06:31.518Z'
 title: Pencils
 publisher:
   name: Dr. Liam Atchison
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 description: >-
   One of my late father’s favorite adages was, “the dullest pencil is keener
-  than the sharpest mind.” 
+  than the sharpest mind.”
 inLanguage: null
 inNav: true
 starred: false
@@ -26,9 +26,9 @@ url: ode-to-a-dull-pencil/index.html
 _type: Article
 
 ---
-![How pencils are made.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/02227bd4d7314b0a8031f0bb627a070a2d8ddb54.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c99e16c774ad6678fc11605ed6cbfe6db6c58c5.jpg)
 
-One of my late father's favorite adages was, "the dullest pencil is keener than the sharpest mind." 
+One of my late father's favorite adages was, "the dullest pencil is keener than the sharpest mind."
 
 He meant that I had better write down my ideas before I forget them. I have just been thinking how much more powerful his aphorism would have been if the dullest pencil was also the best and the beautiful. In his youth America was still in search of a good five-cent cigar, but could wars have been averted with a superior penny pencil?There are the whole foods and tiny house movements. Perhaps there should be a Dull Pencil movement! Before you think I am suffering from lead poisoning from chewing too many Ticonderoga \#2 barrels, allow me to elaborate.
 
