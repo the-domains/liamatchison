@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Dr. Liam Atchison
 name: flashfictory
 cta:
   domain: null
