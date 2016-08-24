@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T05:14:59.830Z'
+datePublished: '2016-08-24T16:54:59.816Z'
 sourcePath: _posts/2016-02-16-tilting-windmills-at-coombebury-heath.md
 inFeed: true
 authors: []
@@ -10,18 +10,14 @@ author:
     url: >-
       http://www.picturesofengland.com/England/Buckinghamshire/Quainton/Quainton_Windmill/pictures
 via: {}
-dateModified: '2016-08-23T05:14:59.288Z'
+dateModified: '2016-08-24T15:46:51.505Z'
 title: Windmill at Coombebury Heath
 publisher:
   name: Dr. Liam Atchison
   domain: null
   url: 'http://liamatchison.com/?p=103'
   favicon: null
-description: >-
-  The following letter was apparently lost in the mails until just recently.
-  Many friends who read this little blog from time to time have asked about the
-  story of the windmill that Maxwell began in his first letter. I am happy to
-  report that I am now able to post Maxwell’s follow-up.
+description: 'The following letter was apparently lost in the mails until just recently. '
 inLanguage: null
 inNav: false
 starred: false
@@ -29,9 +25,11 @@ url: tilting-windmills-at-coombebury-heath/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/84567e052252d294ab9e0e47c61da7bb00a2e494.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5681515cc9d57c106b6f43715d4adf57b0307a3.jpg)
 
-The following letter was apparently lost in the mails until just recently. Many friends who read this little blog from time to time have asked about the story of the windmill that Maxwell began in his first letter. I am happy to report that I am now able to post Maxwell's follow-up.
+The following letter was apparently lost in the mails until just recently. 
+
+Many friends who read this little blog from time to time have asked about the story of the windmill that Maxwell began in his first letter. I am happy to report that I am now able to post Maxwell's follow-up.
 
 The Oaks
 
