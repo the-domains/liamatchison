@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T15:50:33.621Z'
+datePublished: '2016-08-24T17:07:32.616Z'
 sourcePath: _posts/2016-02-14-nipping-home-for-a-cup-of-coffee-or.md
 inFeed: true
 authors: []
@@ -20,7 +20,7 @@ author:
   - name: Claudia Roden
     url: 'http://www.amazon.com/Coffee-Claudia-Roden/dp/1862052832'
 via: {}
-dateModified: '2016-08-24T15:50:33.160Z'
+dateModified: '2016-08-24T17:07:31.809Z'
 title: Convivium Coffee
 app_links: []
 publisher:
@@ -39,7 +39,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Chemex...a Tangle...and dark roast beans.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9d0056675ce030342e19069265fe734326fdca8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9d0056675ce030342e19069265fe734326fdca8.jpg)
 
 Mediterranean cookery expert and coffee aficionada Claudia Roden once related the story of a Viennese man who loved java and conversation.
 
