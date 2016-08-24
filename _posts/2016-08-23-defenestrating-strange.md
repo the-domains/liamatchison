@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-08-24T15:43:10.775Z'
+datePublished: '2016-08-24T16:54:47.341Z'
 sourcePath: _posts/2016-08-23-defenestrating-strange.md
 author: []
 via: {}
-dateModified: '2016-08-24T15:43:09.807Z'
+dateModified: '2016-08-24T15:52:15.927Z'
 title: Defenestrating Strange
 publisher:
   name: Dr. Liam Atchison
 description: >-
   I was hardly awake the next morning as I floated the three blocks to the
-  southeast corner of campus then labored up the hill to Bradley Hall. I was
-  sipping my first cup of coffee from my Yeti, and had my plaid Thermos, circa
-  1960, in my rucksack filled with more Peet’s Italian Roast brew. 
+  southeast corner of campus then labored up the hill to Bradley Hall. 
 starred: false
 inFeed: true
 hasPage: false
@@ -23,9 +21,9 @@ _type: MediaObject
 
 # Defenestrating Strange
 
-I was hardly awake the next morning as I floated the three blocks to the southeast corner of campus then labored up the hill to Bradley Hall. I was sipping my first cup of coffee from my Yeti, and had my plaid Thermos, circa 1960, in my rucksack filled with more Peet's Italian Roast brew. 
+I was hardly awake the next morning as I floated the three blocks to the southeast corner of campus then labored up the hill to Bradley Hall. 
 
-It was Tuesday so I did not teach but had office hours, after which I was to lunch with Professor Fieler. He had asked to meet because he had fresh thoughts on the murder investigation and said mine was the only coffee he could tolerate. I hoped there would be something more substantial than mere coffee and carbs, but Fieler loved doughnuts almost as much as my coffee. At least the preferred shop across from the campus had Maple Bacon doughnuts with thick slabs of smoked rashers atop taupe frosting made from powdered sugar and Mrs. Butterworth's. There was more than one way to squeeze in some protein though Fieler made it difficult. He would ridicule my piggy bun as a travesty. He always ate plain and dunked them till a swirl of crumbs appeared as a crust atop the long-cold beverage.
+I was sipping my first cup of coffee from my Yeti, and had my plaid Thermos, circa 1960, in my rucksack filled with more Peet's Italian Roast brew. It was Tuesday so I did not teach but had office hours, after which I was to lunch with Professor Fieler. He had asked to meet because he had fresh thoughts on the murder investigation and said mine was the only coffee he could tolerate. I hoped there would be something more substantial than mere coffee and carbs, but Fieler loved doughnuts almost as much as my coffee. At least the preferred shop across from the campus had Maple Bacon doughnuts with thick slabs of smoked rashers atop taupe frosting made from powdered sugar and Mrs. Butterworth's. There was more than one way to squeeze in some protein though Fieler made it difficult. He would ridicule my piggy bun as a travesty. He always ate plain and dunked them till a swirl of crumbs appeared as a crust atop the long-cold beverage.
 
 Desecrated Joe was on my mind as I drew near to Bradley Hall and noticed a huge cone of black stuff that looked like coffee grounds, but was probably topsoil piled perhaps ten feet high right against the east wall of Bradley. A group of maybe ten undergraduates was standing akimbo nearby silently gaping at the stack. Was Campus Maintenance digging up a sewer line? As I got close, I saw no hole. Is this landscaping? I noticed that the windows in the classroom above the pile of dirt were open, and I could see figures in the classroom darting back and forth. Was there a scuffle? I could then hear raised voices in the heat of some sort of argument, and I thought I recognized the shouts of the loudest combatant. It was Fieler!
 
