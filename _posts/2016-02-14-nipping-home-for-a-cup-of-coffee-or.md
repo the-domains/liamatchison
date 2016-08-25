@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T17:07:32.616Z'
+datePublished: '2016-08-25T02:24:27.691Z'
 sourcePath: _posts/2016-02-14-nipping-home-for-a-cup-of-coffee-or.md
 inFeed: true
 authors: []
@@ -16,11 +16,9 @@ keywords:
   - softbrew
   - convivial
 related: []
-author:
-  - name: Claudia Roden
-    url: 'http://www.amazon.com/Coffee-Claudia-Roden/dp/1862052832'
+author: []
 via: {}
-dateModified: '2016-08-24T17:07:31.809Z'
+dateModified: '2016-08-25T02:18:07.559Z'
 title: Convivium Coffee
 app_links: []
 publisher:
